@@ -1,2 +1,3 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
+213110229,Lesly,Cortes,Velazquez,IEV901,Ciberseguridad aplicada a los negocios 
